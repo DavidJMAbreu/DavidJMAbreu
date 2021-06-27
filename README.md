@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidjmabreu&label=Profile%20views&color=0e75b6&style=flat" alt="davidjmabreu" /> </p>
 
-- 🔭 I’m currently working on [Air-Draw (A python OpenCV Canvas](https://github.com/DavidJMAbreu/Finger-Air-Draw)
+- 🔭 I’m currently working on [Air-Draw (A python OpenCV Canvas)](https://github.com/DavidJMAbreu/Finger-Air-Draw)
 
 - 🌱 I’m currently learning **Typecript, Angular, Py-OpenCV**
 
