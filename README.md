@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Abreu</h1>
-<h3 align="center">A 22 finalist student of a Electronics and Computers Engineering Bachelor's degree and self-taught programmer</h3>
+<h3 align="center">A 22 year old finalist student of a Electronics and Computers Engineering Bachelor's degree and self-taught programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidjmabreu&label=Profile%20views&color=0e75b6&style=flat" alt="davidjmabreu" /> </p>
 
