@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DavidJMAbreu](https://github.com/DavidJMAbreu)
 
-- 💬 Ask me about **node.js, android.js, python, express, etc..**
+- 💬 Ask me about **NodeJS, android.js, python, express, etc..**
 
-- 📫 How to reach me **davidjma1999@gmail.com**
+- 📫 How to reach me **davidjmabreu@outlook.pt**
 
 - ⚡ Fun fact **Lots of them**
 
