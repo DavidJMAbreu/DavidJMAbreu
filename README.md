@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm David Abreu</h1>
-<h3 align="center">A 22 year old finalist student of a Electronics and Computers Engineering Bachelor's degree and self-taught programmer</h3>
+<h3 align="center">A 22 year old Electronics and Computers Engineer and self-taught programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidjmabreu&label=Profile%20views&color=0e75b6&style=flat" alt="davidjmabreu" /> </p>
 
 - 🔭 I’m currently working on [Air-Draw (A python OpenCV Canvas)](https://github.com/DavidJMAbreu/Finger-Air-Draw)
 
-- 🌱 I’m currently learning **Typecript, Angular, Py-OpenCV**
+- 🌱 I’m currently learning **Flutter, Web Design and Graph QL**
 
 - 👯 I’m looking to collaborate on **Anything fun where i can learn**
 
@@ -13,11 +13,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DavidJMAbreu](https://github.com/DavidJMAbreu)
 
-- 💬 Ask me about **NodeJS, android.js, python, express, etc..**
+- 💬 Ask me about **NodeJS, python, C/C++, etc..**
 
 - 📫 How to reach me **davidjmabreu@outlook.pt**
 
-- ⚡ Fun fact **Lots of them**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
